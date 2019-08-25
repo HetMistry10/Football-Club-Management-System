@@ -1,0 +1,1 @@
+A web-based system developed to facilitate different matchday activities of football club managers and players, as well as help managers and admins in transfer dealings.
